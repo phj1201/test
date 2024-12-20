@@ -5,11 +5,22 @@
     padding: 0;
 }
 
+.con {
+    width: 1200px;
+    margin: 100px auto;
+    text-align: center;
+}
+
 h1 {
     font-size: 24px;
+    margin-bottom: 30px;
     color: tomato;
 }
 
+p {
+    margin-bottom: 60px;
+}
+
 img {
-    width: 120px;
+    width: 15%;
 }
